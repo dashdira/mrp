@@ -1,6 +1,6 @@
 {
-  "version": "v9.20.53 (patches 1.47.0.mpp)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/kmdtaufik/morphe-magisk-module/releases/download/25/music-morphe-magisk-v9.20.53-arm64-v8a.zip",
-  "changelog": "https://raw.githubusercontent.com/kmdtaufik/morphe-magisk-module/update/build.md"
+  "version": "v9.20.53 (patches 1.48.0.mpp)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/dashdira/mrp/releases/download/1/music-morphe-magisk-v9.20.53-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/dashdira/mrp/update/build.md"
 }
